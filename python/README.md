@@ -16,6 +16,7 @@ RST syntax for documenting a function - http://www.sphinx-doc.org/en/master/usag
 ## Intermediate Features
 
 List comprehensions - https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
+
 Transpose lists of lists with `zip()` - https://stackoverflow.com/questions/6473679/transpose-list-of-lists
 
 ## Dates and Times
